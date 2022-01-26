@@ -1,0 +1,9 @@
+[submodule "modules/PolyZone"]
+	path = modules/PolyZone
+	url = https://github.com/mkafrin/PolyZone.git
+[submodule "modules/density-clustering"]
+	path = modules/density-clustering
+	url = https://github.com/uhho/density-clustering.git
+[submodule "modules/mysql"]
+	path = modules/mysql
+	url = https://github.com/mysqljs/mysql.git
